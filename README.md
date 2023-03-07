@@ -17,18 +17,19 @@
 <div>
 <p align="center">
   <h4 align="center">What i can show for my effort</h4>
+  </p>
+  <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=theenergici&count_private=true&show_icons=true&theme=codeSTACKr"/>
   </p>
-  </div>
+</div>
 <div>
 
- <p> 
+ <p align="center"> 
   <a href="https://wakatime.com/@theEnergici"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=theEnergici&theme=codeSTACKr"/></a>
   </p>
-  </div>
+ </div>
 <div>
-
-  <p>
+  <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theEnergici&langs_count=8&theme=codeSTACKr"/>
 </p>
   </div>
