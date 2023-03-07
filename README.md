@@ -1,4 +1,6 @@
-### Hi there 👋
+<div align="center">
+  <h1>Hi, the name is <a href="https://github.com/theenergici">Fabio</a> <img src="https://giphy.com/media/smoke-weed-420-ifSoGhJyBWi7Hg7fny/giphy.gif" width="25px"> </h1>
+</div>
 
 [![Fabio's GitHub stats](https://github-readme-stats.vercel.app/api?username=theenergici&count_private=true&show_icons=true&theme=codeSTACKr)](https://github.com/theenergici)
 
