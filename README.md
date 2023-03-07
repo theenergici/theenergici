@@ -17,9 +17,10 @@
 
 <p align="center">
   <h4 align="center">What i can show for my effort</h4>
-  <img src="https://github-readme-stats.vercel.app/api?username=theenergici&count_private=true&show_icons=true&theme=codeSTACKr"/>
-  <a href="https://wakatime.com/@theEnergici"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=theEnergici&theme=codeSTACKr"/></a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theEnergici&langs_count=8&theme=codeSTACKr"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=theenergici&count_private=true&show_icons=true&theme=codeSTACKr"/>
+  
+  <a href="https://wakatime.com/@theEnergici"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=theEnergici&theme=codeSTACKr"/></a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theEnergici&langs_count=8&theme=codeSTACKr"/>
 </p>
 
 
