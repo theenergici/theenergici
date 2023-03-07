@@ -1,4 +1,11 @@
 ### Hi there 👋
+a href="https://github.com/thenergici/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=theenergici&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=theenergici&repo=convoychat" />
+</a>
+
 [![Fabio's GitHub stats](https://github-readme-stats.vercel.app/api?username=theenergici&count_private=true&show_icons=true&theme=codeSTACKr)
 ](https://github.com/theenergici/github-readme-stats)
 
