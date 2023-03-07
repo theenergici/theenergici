@@ -43,7 +43,7 @@
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/unity.svg" alt="unity" style="vertical-align:top; margin:4px">
 </p>
 
-### My main focus is the development and implementation of 3D and 2D applications.
+<p align="center"><h3><b>My main focus is the development and implementation of 3D and 2D applications.</b><h3></p>
 
 <p align="center"> If you like my projects, Give them ⭐</p>
   <p align="center">All feedback is appreciated!</p>
