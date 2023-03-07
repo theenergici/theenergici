@@ -12,11 +12,11 @@
  </p>-->
   
   <div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  Fabio Alfredo Chavez Energici | 💻 Full Stack Developer | 🦙 Bolivia 🇧🇴, Chile 🇨🇱, Italy 🇮🇹 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  Fabio Alfredo Chavez Energici | 💻  3D/2D Developer and passable asset Maker 🖼️| 🦙 Bolivia 🇧🇴, Chile 🇨🇱, Italy 🇮🇹 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
 <div>
 <p align="center">
-  <h4 align="center">What i can show for my effort</h4>
+  <h4 align="center"><i><u>What i can show for my effort</u></i></h4>
   </p>
   <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=theenergici&count_private=true&show_icons=true&theme=codeSTACKr"/>
@@ -33,9 +33,13 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theEnergici&langs_count=8&theme=codeSTACKr"/>
 </p>
   </div>
-
-
-
+  
+## Languages and tools:
+<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/android_studio.svg" alt="js" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="js" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/unity.svg" alt="js" style="vertical-align:top; margin:4px">
 
 <!--
 **theenergici/theenergici** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
