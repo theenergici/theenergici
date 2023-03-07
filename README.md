@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-[![Fabio's GitHub stats](https://github-readme-stats.vercel.app/api?username=theenergici&count_private=true&show_icons=true&theme=codeSTACKr)](https://github.com/theenergici)
+<p align=center>[![Fabio's GitHub stats](https://github-readme-stats.vercel.app/api?username=theenergici&count_private=true&show_icons=true&theme=codeSTACKr)](https://github.com/theenergici)</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theEnergici&langs_count=8&theme=codeSTACKr)](https://github.com/theenergici)
+<p align=center>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theEnergici&langs_count=8&theme=codeSTACKr)](https://github.com/theenergici)</p>
 
-[![TheEnergici's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=theEnergici&theme=codeSTACKr)](https://wakatime.com/@theEnergici)
+<p align=center>[![TheEnergici's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=theEnergici&theme=codeSTACKr)](https://wakatime.com/@theEnergici)</p>
 
 
 <!--
