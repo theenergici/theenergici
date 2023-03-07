@@ -4,7 +4,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theEnergici&langs_count=8&theme=codeSTACKr)
 
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=theenergici&theme=codeSTACKr)
+[![TheEnergici's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=theenergici&theme=codeSTACKr)(https://wakatime.com/@theEnergici)]
 
 <!--
 **theenergici/theenergici** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
