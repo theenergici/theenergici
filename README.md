@@ -6,7 +6,7 @@
 
 [![TheEnergici's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=theenergici&theme=codeSTACKr)](https://wakatime.com/@theEnergici)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theenergici&repo=github-readme-stats)](https://github.com/theenergici)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vincenzocas&repo=VR-TrueCrime)](https://github.com/vincenzocas/VR-TrueCrime)
 
 <!--
 **theenergici/theenergici** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
