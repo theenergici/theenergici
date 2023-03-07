@@ -42,6 +42,11 @@
 <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vsCode" style="vertical-align:top; margin:4px">
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/unity.svg" alt="unity" style="vertical-align:top; margin:4px">
 </p>
+
+
+<p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
 <!--
 **theenergici/theenergici** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
