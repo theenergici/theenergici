@@ -45,7 +45,8 @@
 
 ### My main focus is the development and implementation of 3D and 2D applications.
 
-<p align="center"> If you like my projects, Give them ⭐ and all feedback is appreciated!</p>
+<p align="center"> If you like my projects, Give them ⭐
+  All feedback is appreciated!</p>
 </p>
 
 
