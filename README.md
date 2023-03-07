@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-[![Fabio's GitHub stats](https://github-readme-stats.vercel.app/api?username=theenergici&count_private=true&show_icons=true&theme=codeSTACKr)
+![Fabio's GitHub stats](https://github-readme-stats.vercel.app/api?username=theenergici&count_private=true&show_icons=true&theme=codeSTACKr)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theEnergici&langs_count=8&theme=codeSTACKr)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theEnergici&langs_count=8&theme=codeSTACKr)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=theenergici&theme=codeSTACKr)
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=theenergici&theme=codeSTACKr)
 
 <!--
 **theenergici/theenergici** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
