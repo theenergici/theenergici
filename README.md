@@ -14,17 +14,24 @@
   <div align="center">
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  Fabio Alfredo Chavez Energici | 💻 Full Stack Developer | 🦙 Bolivia 🇧🇴, Chile 🇨🇱, Italy 🇮🇹 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
-
+<div>
 <p align="center">
   <h4 align="center">What i can show for my effort</h4>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=theenergici&count_private=true&show_icons=true&theme=codeSTACKr"/>
   </p>
+  </div>
+<div>
+
  <p> 
   <a href="https://wakatime.com/@theEnergici"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=theEnergici&theme=codeSTACKr"/></a>
   </p>
+  </div>
+<div>
+
   <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theEnergici&langs_count=8&theme=codeSTACKr"/>
 </p>
+  </div>
 
 
 
