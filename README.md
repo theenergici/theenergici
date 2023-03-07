@@ -16,7 +16,7 @@
 </div>
 <div>
 <p align="center">
-  <h4 align="center"><i><u>What i can show for my effort</u></i></h4>
+  <h1 align="center"><i><u>What i can show for my effort</u></i></h1>
   </p>
   <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=theenergici&count_private=true&show_icons=true&theme=codeSTACKr"/>
